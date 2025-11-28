@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Assistant Professor and NVIDIA Universisty Ambassador</a>. Posts and Telecommunications Institute of Technology.
+subtitle: <a href='#'>Assistant Professor and NVIDIA Universisty Ambassador</a>
+Posts and Telecommunications Institute of Technology.
 
 profile:
   align: right
