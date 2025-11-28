@@ -421,7 +421,7 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-a-paper-has-been-accepted-to-publish-in-discover-artificial-intelligence-q1",
-          title: 'a paper has been accepted to publish in Discover Artificial Intelligence (Q1)',
+          title: 'A paper has been accepted to publish in Discover Artificial Intelligence (Q1)',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
