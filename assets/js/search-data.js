@@ -52,18 +52,18 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/images/";
+            window.location.href = "/blog/2025/A80-KHCN/";
           
         },
-      },{id: "post-a-post-with-plotly-js",
+      },{id: "post-dr-nam-delivered-speech-at-intracom-ai-conference",
         
-          title: "a post with plotly.js",
+          title: "Dr. Nam delivered speech at Intracom AI conference",
         
         description: "this is what included plotly.js code could look like",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.location.href = "/blog/2025/intracom/";
           
         },
       },{id: "post-a-post-with-image-galleries",
