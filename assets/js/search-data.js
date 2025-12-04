@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-dr-vu-hoai-nam-delivered-a-speech-at-the-event-organized-by-the-ministry-of-science-and-technology",
+        },{id: "post-02-students-from-yirlodt-visited-korea-for-ai-amp-software-technology-forum",
+        
+          title: "02 students from YIRLoDT visited Korea for AI &amp; SOFTWARE TECHNOLOGY FORUM",
+        
+        description: "this is what included image galleries could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/sogang/";
+          
+        },
+      },{id: "post-dr-vu-hoai-nam-delivered-a-speech-at-the-event-organized-by-the-ministry-of-science-and-technology",
         
           title: "Dr. Vu Hoai Nam delivered a speech at the event organized by the...",
         
@@ -59,22 +70,11 @@ ninja.data = [{
         
           title: "Dr. Nam delivered speech at Intracom AI conference",
         
-        description: "this is what included plotly.js code could look like",
+        description: "Dr. Nam delivered speech at Intracom AI conference",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025/intracom/";
-          
-        },
-      },{id: "post-a-post-with-image-galleries",
-        
-          title: "a post with image galleries",
-        
-        description: "this is what included image galleries could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/photo-gallery/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
