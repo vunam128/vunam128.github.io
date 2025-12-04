@@ -412,8 +412,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-a-paper-has-been-accepted-to-present-at-mapr2025-nha-trang",
+          title: 'A paper has been accepted to present at MAPR2025 - Nha Trang',
+          description: "",
+          section: "News",},{id: "news-a-paper-has-been-accepted-to-present-at-soict2025-nha-trang",
+          title: 'A paper has been accepted to present at SOICT2025 - Nha Trang',
           description: "",
           section: "News",},{id: "news-a-paper-has-been-accepted-to-publish-in-ieee-access-q1",
           title: 'A paper has been accepted to publish in IEEE Access (Q1)',
