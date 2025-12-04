@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: A paper has been accepted to publish in IEEE Access (Q1)
 date: 2025-11-13 16:11:00-0400
 inline: false
 related_posts: false
