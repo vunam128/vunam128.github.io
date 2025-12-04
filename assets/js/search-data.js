@@ -415,8 +415,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-a-paper-has-been-accepted-to-publish-in-ieee-access-q1",
+          title: 'A paper has been accepted to publish in IEEE Access (Q1)',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
